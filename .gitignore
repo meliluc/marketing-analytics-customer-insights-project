@@ -1,0 +1,13 @@
+# Entorno / Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Datos (no versionar crudos ni intermedios)
+data/raw/
+data/interim/
+
+# Archivos temporales
+*.tmp
+*.log
+.DS_Store
