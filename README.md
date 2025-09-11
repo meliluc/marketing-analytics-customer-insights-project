@@ -46,5 +46,3 @@ src/ # funciones auxiliares en Python
 
 4\) Documentación en README + reports
 
-
-
